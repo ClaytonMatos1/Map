@@ -1,0 +1,21 @@
+.map {
+    width: 296px;
+    height: 296px;
+}
+
+#svg-map path {
+    fill: #C4EAF5;
+}
+
+#svg-map a {
+    text-decoration: none
+}
+
+#svg-map a:hover {
+    cursor: pointer;
+    text-decoration: none
+}
+
+#BR-TO > path, #BR-SP > path {
+    fill: #003399;
+}
